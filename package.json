@@ -11,6 +11,7 @@
   "dependencies": {
     "extjs-spec-generator": "^1.0.4",
     "event-stream": "^3.3.4",
-    "gulp-util": "^3.0.7"
+    "gulp-util": "^3.0.7",
+    "gulp-js-prettify": "^0.1.0"
   }
 }
