@@ -10,7 +10,7 @@
   "author": "Wendell Wayne H. Estrada <whizkidwwe1217@live.com>",
   "license": "ISC",
   "dependencies": {
-    "extjs-spec-generator": "^1.0.4",
+    "extjs-spec-generator": "^1.1.1",
     "event-stream": "^3.3.4",
     "gulp-util": "^3.0.7",
     "gulp-js-prettify": "^0.1.0"
