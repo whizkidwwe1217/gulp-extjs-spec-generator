@@ -5,10 +5,14 @@ var pretty = require('gulp-js-prettify');
 
 var config = {
     type: "model",
-    moduleName: "Inventory",
-    destDir: "test/specs",
-    dependencyDestDir: "test/mock"
+    moduleName: "SampleModule",
+    dependencyDir: "src/model/**/*.js",
+    resolveModuleDependencies: true,
+    destDir: "src/test/specs",
+    formatContent: true,
+    dependencyDestDir: "src/test/mock"
 };
+
 
 gulp.task('generate', function() {
     gulp.src('src/**/*.js')
