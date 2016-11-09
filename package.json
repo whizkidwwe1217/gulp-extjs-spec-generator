@@ -1,6 +1,6 @@
 {
   "name": "gulp-extjs-spec-generator",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A gulp plugin for extjs-spec-generator",
   "main": "index.js",
   "repository": {
