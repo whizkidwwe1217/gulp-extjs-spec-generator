@@ -1,6 +1,6 @@
 {
   "name": "gulp-extjs-spec-generator",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "A gulp plugin for extjs-spec-generator",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "author": "Wendell Wayne H. Estrada <whizkidwwe1217@live.com>",
   "license": "ISC",
   "dependencies": {
-    "extjs-spec-generator": "^1.2.9",
+    "extjs-spec-generator": "^1.2.10",
     "event-stream": "^3.3.4",
     "gulp-util": "^3.0.7",
     "gulp-js-prettify": "^0.1.0"
